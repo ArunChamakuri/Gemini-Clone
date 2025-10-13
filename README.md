@@ -1,4 +1,4 @@
-# Gemini-Clone 🤖
+# Chat-Bot-Application 🤖
 
 A **React + Vite** web application that mimics the Gemini conversational AI interface.  
 This project demonstrates a chat UI interacting with the **Google Gemini API** to generate AI responses.
@@ -39,7 +39,7 @@ This project demonstrates a chat UI interacting with the **Google Gemini API** t
 
 ## 📂 Project Structure
 
-Gemini-Clone/
+Chat-Bot-Application/
 ├── node_modules/
 ├── public/
 │ └── vite.svg
